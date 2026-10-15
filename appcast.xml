@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Gewalteinsatz</title>
+    <!-- ITEMS -->
+    <item>
+      <title>Version 2.0</title>
+      <pubDate>Thu, 15 Oct 2026 17:57:06 +0200</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Hammerpaster heißt jetzt Gewalteinsatz – mit neuem Icon: die zerbrochene ⌘V-Taste</li><li>Die Taste in der Menüleiste fliegt beim Tippen auseinander</li><li>Einstellungen zweispaltig, ohne Scrollen – das Fenster passt sich dem Inhalt an</li><li>Einstellungen und Snippets aus Hammerpaster werden beim ersten Start übernommen</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/gewalteinsatz-releases/releases/download/v2.0/Gewalteinsatz-2.0.dmg" type="application/octet-stream" sparkle:edSignature="8GHcKQSJSJ9vu0e1WZad+Fu01J1hSbjQ51Rhuhejme3T8BboHS1+PTccWTSHbjvhbMGNXLlZidlCcx89UuzmCQ==" length="3959470"/>
+    </item>
+  </channel>
+</rss>
