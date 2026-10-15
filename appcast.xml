@@ -4,6 +4,15 @@
     <title>Gewalteinsatz</title>
     <!-- ITEMS -->
     <item>
+      <title>Version 2.0.1</title>
+      <pubDate>Thu, 15 Oct 2026 18:28:20 +0200</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Behebt Abstürze beim Öffnen der Einstellungen und von „Über Gewalteinsatz“</li><li>Icon in dunklerem Lila</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/gewalteinsatz-releases/releases/download/v2.0.1/Gewalteinsatz-2.0.1.dmg" type="application/octet-stream" sparkle:edSignature="E5mcGtljsXUE87XVw7o74JTpmAr/doLK5MudEcSDKdF2qmHmQheZyXoQouNp/tso4XINx05W+0edz1hYoO5YAA==" length="4009809"/>
+    </item>
+    <item>
       <title>Version 2.0</title>
       <pubDate>Thu, 15 Oct 2026 17:57:06 +0200</pubDate>
       <sparkle:version>6</sparkle:version>
