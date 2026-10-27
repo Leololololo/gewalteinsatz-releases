@@ -4,6 +4,15 @@
     <title>Gewalteinsatz</title>
     <!-- ITEMS -->
     <item>
+      <title>Version 2.1.0</title>
+      <pubDate>Tue, 27 Oct 2026 09:41:12 +0100</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Neues Icon: die zerbrochene ⌘V-Taste in Amber, passend zu den anderen MacLeo-Apps</li><li>Englisch (UK) und US International tippen Sonderzeichen jetzt richtig über AltGr</li><li>Zeichen, die es auf dem Ziel-Layout nicht gibt, werden übersprungen statt als „A“ getippt</li><li>Nach Tab und Return tippt Gewalteinsatz im neuen Feld weiter</li><li>Bei Passwörtern zeigt das Overlay keine Zeichenzahl mehr</li><li>1Password: Hinweis statt stillem Abbruch, laufendes Tippen wird nicht mehr abgebrochen</li><li>Tastenkürzel: Standardkürzel wie ⌘C oder ⌘V werden abgelehnt, Konflikte werden angezeigt</li><li>Beenden während des Tippens schließt den letzten Tastendruck sauber ab</li><li>„Bewegung reduzieren“ und VoiceOver werden in der Menüleiste berücksichtigt</li><li>Besser lesbare Nebentexte in Einstellungen und „Über“-Fenster</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/gewalteinsatz-releases/releases/download/v2.1.0/Gewalteinsatz-2.1.0.dmg" type="application/octet-stream" sparkle:edSignature="voumUuV72CH7GRLS6b/PniNPkYOkFXcFp8EA1/0o7okHNMpMge79fEF2DB2f9LeXWYon7r7cizTKPeXWoKAtAA==" length="4243516"/>
+    </item>
+    <item>
       <title>Version 2.0.1</title>
       <pubDate>Thu, 15 Oct 2026 18:28:20 +0200</pubDate>
       <sparkle:version>7</sparkle:version>
