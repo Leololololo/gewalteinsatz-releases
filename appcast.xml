@@ -4,6 +4,15 @@
     <title>Gewalteinsatz</title>
     <!-- ITEMS -->
     <item>
+      <title>Version 2.2.0</title>
+      <pubDate>Tue, 27 Oct 2026 20:46:51 +0100</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>2.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Heißt jetzt MacLeo Gewalteinsatz</li><li>Schlichteres Symbol in der Menüleiste: die Taste ohne ⌘ und V, etwas größer</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/gewalteinsatz-releases/releases/download/v2.2.0/Gewalteinsatz-2.2.0.dmg" type="application/octet-stream" sparkle:edSignature="Q4Yrgnbejb1c8lGLwv7syev3cxc1wgUy1XqgS/qxb7gp++6bQStJWpt+SpRBnEh+3syT6KGA6bV5x/pwiWJDDA==" length="4244676"/>
+    </item>
+    <item>
       <title>Version 2.1.1</title>
       <pubDate>Tue, 27 Oct 2026 09:49:38 +0100</pubDate>
       <sparkle:version>9</sparkle:version>
